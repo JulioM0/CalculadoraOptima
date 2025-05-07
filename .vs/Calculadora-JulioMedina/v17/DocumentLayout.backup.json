@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8460A58C-4DDE-4BD6-B22E-CEAD52CA82DA}|Calculadora-JulioMedina\\Calculadora-JulioMedina.csproj|c:\\users\\julio\\source\\repos\\calculadora-juliomedina\\calculadora-juliomedina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8460A58C-4DDE-4BD6-B22E-CEAD52CA82DA}|Calculadora-JulioMedina\\Calculadora-JulioMedina.csproj|solutionrelative:calculadora-juliomedina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\Calculadora-JulioMedina\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora-JulioMedina\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\Calculadora-JulioMedina\\Program.cs",
+              "RelativeToolTip": "Calculadora-JulioMedina\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:09:45.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

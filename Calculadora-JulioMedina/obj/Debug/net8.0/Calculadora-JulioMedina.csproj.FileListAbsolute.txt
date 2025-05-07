@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\bin\Debug\net8.0\Calculadora-JulioMedina.exe
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\bin\Debug\net8.0\Calculadora-JulioMedina.deps.json
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\bin\Debug\net8.0\Calculadora-JulioMedina.runtimeconfig.json
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\bin\Debug\net8.0\Calculadora-JulioMedina.dll
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\bin\Debug\net8.0\Calculadora-JulioMedina.pdb
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.AssemblyInfo.cs
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.dll
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\refint\Calculadora-JulioMedina.dll
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.pdb
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\Calculadora-JulioMedina.genruntimeconfig.cache
+C:\Users\julio\source\repos\Calculadora-JulioMedina\Calculadora-JulioMedina\obj\Debug\net8.0\ref\Calculadora-JulioMedina.dll
