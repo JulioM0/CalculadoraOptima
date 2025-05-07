@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\",
+  "WorkspaceRootPath": "C:\\Users\\BECARIO\\Documents\\CalculadoraOptima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8460A58C-4DDE-4BD6-B22E-CEAD52CA82DA}|Calculadora-JulioMedina\\Calculadora-JulioMedina.csproj|c:\\users\\julio\\source\\repos\\calculadora-juliomedina\\calculadora-juliomedina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8460A58C-4DDE-4BD6-B22E-CEAD52CA82DA}|Calculadora-JulioMedina\\Calculadora-JulioMedina.csproj|c:\\users\\becario\\documents\\calculadoraoptima\\calculadora-juliomedina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8460A58C-4DDE-4BD6-B22E-CEAD52CA82DA}|Calculadora-JulioMedina\\Calculadora-JulioMedina.csproj|solutionrelative:calculadora-juliomedina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\Calculadora-JulioMedina\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\BECARIO\\Documents\\CalculadoraOptima\\Calculadora-JulioMedina\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora-JulioMedina\\Program.cs",
-              "ToolTip": "C:\\Users\\julio\\source\\repos\\Calculadora-JulioMedina\\Calculadora-JulioMedina\\Program.cs",
+              "ToolTip": "C:\\Users\\BECARIO\\Documents\\CalculadoraOptima\\Calculadora-JulioMedina\\Program.cs",
               "RelativeToolTip": "Calculadora-JulioMedina\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T23:09:45.453Z",
               "EditorCaption": ""
